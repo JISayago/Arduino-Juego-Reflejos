@@ -14,9 +14,9 @@ El tiempo de reaccion sera medido entre la diferencia de tiempo desde que se enc
 
 El resultado del mejor tiempo de reaccion sera desplegado en un display el cual tambien va llevando la cuenta de aciertos/errores.
 
-![Arduino-Juego-Reflejos](https://github.com/JISayago/Arduino-Juego-Reflejos/blob/master/Img/mejor-tiempo-de-reaccion.png)
+![Arduino-Juego-Reflejos](https://github.com/JISayago/Arduino-Juego-Reflejos/blob/master/Img/mejor%20tiempo%20de%20reaccion.png)
 
-![Arduino-Juego-Reflejos](https://github.com/JISayago/Arduino-Juego-Reflejos/blob/master/Img/aciertos-fallos.png)
+![Arduino-Juego-Reflejos](https://github.com/JISayago/Arduino-Juego-Reflejos/blob/master/Img/aciertos%20fallos.png)
 
 Por último el juego cuenta con un menú que permite elegir entre tres niveles posibles, y un menú para elegir los tiempos entre el encendido de un led y el encendido de otro.
 
