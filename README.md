@@ -9,5 +9,6 @@ Componentes:
 - 2 botones.
 
 El tiempo de reaccion sera medido entre la diferencia de tiempo desde que se enciende un led hasta que se hacerca la mano a una cierta distancia del lector de ultrasonido de distancia. 
+![Arduino-Juego-Reflejos](Arduino-Juego-Reflejos)
 El resultado del mejor tiempo de reaccion sera desplegado en un display el cual tambien va llevando la cuenta de aciertos/errores.
 Por último el juego cuenta con un menú que permite elegir entre tres niveles posibles, y un menú para elegir los tiempos entre el encendido de un led y el encendido de otro.
