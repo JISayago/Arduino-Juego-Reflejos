@@ -22,6 +22,6 @@ Por último el juego cuenta con un menú que permite elegir entre tres niveles p
 
 ![Arduino-Juego-Reflejos](https://github.com/JISayago/Arduino-Juego-Reflejos/blob/master/Img/Menu.png)
 
-![Arduino-Juego-Reflejos](https://github.com/JISayago/Arduino-Juego-Reflejos/blob/master/Img/menu-2.png)
+![Arduino-Juego-Reflejos](https://github.com/JISayago/Arduino-Juego-Reflejos/blob/master/Img/menu2.png)
 
 ![Arduino-Juego-Reflejos](https://github.com/JISayago/Arduino-Juego-Reflejos/blob/master/Img/elegido.png)
