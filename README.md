@@ -8,7 +8,7 @@ Componentes:
 - 1 display 16x2.
 - 2 botones.
 
-El tiempo de reaccion sera medido entre la diferencia de tiempo desde que se enciende un led hasta que se hacerca la mano a una cierta distancia del lector de ultrasonido de distancia. 
+El tiempo de reaccion sera medido entre la diferencia de tiempo desde que se enciende un led hasta que se acerca la mano a una cierta distancia del lector de ultrasonido de distancia. 
 
 ![Arduino-Juego-Reflejos](https://github.com/JISayago/Arduino-Juego-Reflejos/blob/master/Img/Arduino-Juego-Reflejos.png)
 
