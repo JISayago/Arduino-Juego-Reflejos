@@ -9,6 +9,7 @@ Componentes:
 - 2 botones.
 
 El tiempo de reaccion sera medido calculando la diferencia de tiempo desde que se enciende un led hasta que se acerca la mano a una cierta distancia del lector de ultrasonido. 
+Link en simulador Tinkercad: https://www.tinkercad.com/things/ey0sm4fVzPg-just-react-distancia.
 
 ![Arduino-Juego-Reflejos](https://github.com/JISayago/Arduino-Juego-Reflejos/blob/master/Img/Arduino-Juego-Reflejos.png)
 
